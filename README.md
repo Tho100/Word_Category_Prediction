@@ -4,3 +4,10 @@
 
 ![period](https://user-images.githubusercontent.com/64541739/159488460-3aab573d-962a-4d23-9a6c-c20a7ae57129.png)
 
+Tools:
+
+Visual Studio Code
+
+Scikit-learn 0.22
+
+Tkinter
