@@ -11,3 +11,9 @@ Visual Studio Code
 Scikit-learn 0.22
 
 Tkinter
+
+# Latest Updates
+
+New 'Clear' button added with functionality to clear the result label after 'Show Category' button pressed
+
+'QUESTION' Category added
